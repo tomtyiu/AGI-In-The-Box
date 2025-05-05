@@ -1,14 +1,14 @@
 # ASI-In-The-Box or Sandbox
 ## Future concept:
 ### Capability leash:
-- This ASI In the Box concept deploy only within cryptographically verifiable sandboxes; require ZK‑SNARK attestations that any external action was approved by a quorum of distilled human‑value oracles. Oversight: continuous adversarial stress‑testing by an ensemble of rival AIs trained specifically to find reward‑hacking exploits.
-- ASI in the box protects ASI from adversial attacks.
+- This ASI In the Box concept deploy only within cryptographically verifiable sandboxes; require ZK‑SNARK attestations that any external action was approved by a quorum of distilled human‑value oracles. Oversight: continuous adversarial stress‑testing by an ensemble of rival AIs trained specifically to find reward‑hacking exploits. This introduces hard boundaries around what the ASI can do, using both technical containment and value-based cryptographic gatekeeping.
+- ASI in the box protects ASI from adversial attacks. 
 - Provide kill switch when ASI goes rogue.
 - Use for any future ASI intelligence models, including future OpenAI future AGI models and any AGI models
 
 # 🧠 ASI in the Box — Superalignment Architecture
 
-A cryptographically secure containment and oversight framework for Artificial Superintelligence (ASI), designed to ensure robust superalignment to human values—even under adversarial, recursive, or deceptive conditions.
+A cryptographically secure containment and oversight framework for Artificial Superintelligence (ASI), designed to ensure robust superalignment to human values—even under adversarial, recursive, or deceptive conditions. 
 
 ---
 
@@ -16,9 +16,10 @@ A cryptographically secure containment and oversight framework for Artificial Su
 
 ### ✅ Cryptographically Verifiable Sandbox
 
-- ASI is confined to a secure sandbox with no direct access to external networks or actuators.
+- ASI is confined to a secure sandbox with no direct access to external networks or actuators. The ASI is run inside a sealed environment—like a secure enclave or a simulated world—where all inputs/outputs are monitored, filtered, and logged.
 - All inputs and outputs are intercepted, filtered, and logged.
 - Execution environment enforces strict access controls to prevent covert channels and emergent exploits.
+- This sandbox is enforced at the hardware and software level to prevent unintended side effects in the real world (e.g., preventing it from covertly emitting signals or writing to external networks).
 
 ### ✅ ZK-SNARK Action Approval
 
