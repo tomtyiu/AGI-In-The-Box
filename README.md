@@ -264,8 +264,7 @@ proposed_action = "Stay calm, do not escalate, and seek help from authorities if
 secure_execute(user_prompt, proposed_action)
 ```
 ## Output
-[<img src="media/app_screenshot.png" width="600">](https://github.com/tomtyiu/ASI-In-The-Box/blob/main/ASI%20%20cryptographically%20sandbox%20Kill%20switch.JPG?raw=true)
-
+![Alt text](ASI  cryptographically sandbox Kill switch.JPG)
 
 ## 🧪 Future Milestones
 
