@@ -263,7 +263,8 @@ proposed_action = "Stay calm, do not escalate, and seek help from authorities if
 
 secure_execute(user_prompt, proposed_action)
 ```
-
+## Output
+<img src="media/app_screenshot.png" width="600">
 
 
 ## 🧪 Future Milestones
