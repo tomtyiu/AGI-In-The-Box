@@ -1,6 +1,6 @@
 # ASI-In-The-Box or Sandbox
 ## Future concept:
-### Capability leash:
+### Capability unleash:
 - This ASI In the Box concept deploy only within cryptographically verifiable sandboxes; require ZK‑SNARK attestations that any external action was approved by a quorum of distilled human‑value oracles. Oversight: continuous adversarial stress‑testing by an ensemble of rival AIs trained specifically to find reward‑hacking exploits. This introduces hard boundaries around what the ASI can do, using both technical containment and value-based cryptographic gatekeeping.
 - ASI in the box protects ASI from adversial attacks. 
 - Provide kill switch when ASI goes rogue.
