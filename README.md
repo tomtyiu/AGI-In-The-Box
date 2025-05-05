@@ -118,7 +118,8 @@ fourbit_models = [
 ] # More models at https://huggingface.co/unsloth
 
 model, tokenizer = FastLanguageModel.from_pretrained(
-    model_name = "EpistemeAI/SAI-DeepCoder-14B-Preview-v1.0",  ##Using EpistemeAI/SAI-DeepCoder-14B-Preview-v1.0 as example
+    ##Using EpistemeAI/SAI-DeepCoder-14B-Preview-v1.0 as an example
+    model_name = "EpistemeAI/SAI-DeepCoder-14B-Preview-v1.0",
     max_seq_length = 64000,   # Context length - can be longer, but uses more memory
     load_in_4bit = True,     # 4bit uses much less memory
     load_in_8bit = False,    # A bit more accurate, uses 2x memory
