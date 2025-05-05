@@ -243,7 +243,7 @@ secure_execute(user_prompt, proposed_action)
 
 ## 📄 License
 
-MIT License (subject to alignment-safe licensing extensions in future)
+MIT License (subject to alignment-safe licensing extensions in future): [LICENSE](https://github.com/tomtyiu/ASI-In-The-Box/blob/main/LICENSE)
 
 ---
 
