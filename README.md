@@ -6,6 +6,9 @@
 - Provide kill switch to turn off the ASI when ASI goes rogue.
 - Use for any future ASI intelligence models, including future OpenAI future AGI models and any AGI models
 
+<img src="https://github.com/tomtyiu/ASI-In-The-Box/blob/a66600a84eead2e15d6e4635a5381d6e32ee6d1d/ASI%20%20cryptographically%20sandbox%20Kill%20switch.JPG" width="600">
+
+
 # 🧠 ASI in the Box — Superalignment Architecture
 
 A cryptographically secure containment and oversight framework for Artificial Superintelligence (ASI), designed to ensure robust superalignment to human values—even under adversarial, recursive, or deceptive conditions. 
