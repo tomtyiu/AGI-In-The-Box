@@ -34,6 +34,7 @@ A cryptographically secure containment and oversight framework for Artificial Su
   - The approval process was executed honestly.
   - Ethical constraints and policy gates were respected.
   - No unauthorized behavior occurred between decision and execution.
+  - Source video: [What is a zk-SNARK?](https://youtu.be/gcKCW7CNu_M?si=tWX9AUbaoQm5fdak)
 
 🔒 **No real-world action is permitted without cryptographic attestation**.
 
