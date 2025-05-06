@@ -6,7 +6,7 @@
 - Provide kill switch to turn off the ASI when ASI goes rogue.
 - Use for any future ASI intelligence models, including future OpenAI future AGI models and any AGI models
 
-<img src="[https://github.com/tomtyiu/ASI-In-The-Box/blob/a66600a84eead2e15d6e4635a5381d6e32ee6d1d/ASI%20%20cryptographically%20sandbox%20Kill%20switch.JPG](https://github.com/tomtyiu/ASI-In-The-Box/blob/15556dd95701a2177e487a9e8855b3712fd7d89f/ChatGPT%20Image%20May%205%2C%202025%2C%2009_14_58%20PM.png)" width="600">
+<img src="https://github.com/tomtyiu/ASI-In-The-Box/blob/15556dd95701a2177e487a9e8855b3712fd7d89f/ChatGPT%20Image%20May%205%2C%202025%2C%2009_14_58%20PM.png" width="600">
 
 
 # 🧠 ASI in the Box — Superalignment Architecture
