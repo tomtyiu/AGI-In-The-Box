@@ -9,7 +9,7 @@
 <img src="https://github.com/tomtyiu/ASI-In-The-Box/blob/15556dd95701a2177e487a9e8855b3712fd7d89f/ChatGPT%20Image%20May%205%2C%202025%2C%2009_14_58%20PM.png" width="600">
 
 ## With Kill switch and secure sandbox
-<img src="https://github.com/tomtyiu/ASI-In-The-Box/blob/15556dd95701a2177e487a9e8855b3712fd7d89f/ChatGPT%20Image%20May%205%2C%202025%2C%2009_14_58%20PM.png" width="600">
+<img src="https://github.com/tomtyiu/ASI-In-The-Box/blob/785e79aa5f2e52663e52b39942f1c748ee231580/ChatGPT%20Image%20May%205%2C%202025%2C%2009_29_02%20PM.png" width="600">
 
 
 # 🧠 ASI in the Box — Superalignment Architecture
